@@ -2,8 +2,7 @@
 
 
 
-#### We want you to create a simple webdriver test in Selenium, or any other Web Testing Tool you like, that should perform the following tests: 
-
+#### We want you to create a simple automation test in any Web Testing Tool you like, that should perform the following tests: 
 
 
 1. Check that the webpage at https://demo.sportbuff.com/?videoID=Tennis_Channel_Demo is running
@@ -19,6 +18,5 @@
 11. You get the results of the Buff
 
 
-**Please note that the test is generating at each run a random email and name and not reuse the same.**
-
+**Please note that the test must be generating at each run a random email and name and not reuse the same values on a next iterration.**
 **No cookies should be saved as the demo page is storing data there and won't prompt for a username and email if a cookie is found**
