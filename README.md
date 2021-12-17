@@ -10,12 +10,11 @@
 3. Check that the demo page loads
 4. Check that a video is playing in the demo page
 5. Verify that the SportBuff UI is loaded (compact points view is visible)
-6. Verify that the entered Name in the form is present in the Leaderboard as our username
+6. Verify that the entered Name in the form is present in the Leaderboard as our username (beginning of the Username, as we might add a random suffix if the username does exist)
 7. We can update our name in the profile section
-8. We can see our email address in the Profile section
-9. We can update our email in the Profile section
-10. A random vote can be casted to the Questions (Buffs) that appears at random intervals
-11. You get the results of the Buff
+8. We can update our email in the Profile section
+9. A random vote can be casted to the Questions (Buffs) that appears at random intervals and you don't receive an API error response
+10. You get the results of the Buff
 
 
 **Please note that the test must be generating at each run a random email and name and not reuse the same values on a next iterration.**
