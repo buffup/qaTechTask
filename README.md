@@ -11,5 +11,6 @@
 4. We can update our name in the profile section
 5. We can update our email in the Profile section
 6. We can update our profile picture in the Profile section
+7. We can form a new private group
 
 **Please note that the test must be generating at each run a random email and name and not reuse the same values on a next iterration.**
