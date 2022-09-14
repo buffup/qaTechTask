@@ -10,8 +10,7 @@
 3. Verify that the SportBuff UI is loaded (compact points view is visible)
 4. Check that you can login/create a new SportBuff account
 5. We can update our name in the profile section
-6. We can update our email in the Profile section
-7. We can update our profile picture in the Profile section
-8. We can form a new private group
+6. We can update our profile picture in the Profile section
+7. We can form a new private group
 
 **Please note that the test must be generating at each run a random email and name and not reuse the same values on a next iterration.**
